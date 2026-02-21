@@ -81,7 +81,7 @@ export function About() {
                                 </a>
 
                                 {/* Gorilon */}
-                                <a href="https://buymeacoffee.com/notdarko" target="_blank" rel="noopener noreferrer" className="flex items-center gap-6 group">
+                                <a href="https://idarko.xyz" target="_blank" rel="noopener noreferrer" className="flex items-center gap-6 group">
                                     <div className="relative">
                                         <div className="absolute inset-0 bg-primary/30 blur-xl rounded-full opacity-0 group-hover:opacity-100 transition-all duration-500 scale-110" />
                                         <div className="relative w-20 h-20">
